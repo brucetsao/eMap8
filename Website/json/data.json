@@ -1,0 +1,53 @@
+{
+	"type": "FeatureCollection",
+	"features": 
+[
+	{
+		"type": "Feature",
+		"properties": {
+			"amount": 1 ,
+			 "title": "國立暨南國際大學科技學院科一館412研究室 <br> (NCNUCST01) <br> GPS:(120.930743,23.952283) <br> 南投縣埔里鎮大學路1號 <br>location:溫溼度感測器(Modbus) Sensor:Temperature and humidity Temperature(22.400000) ,Humidity(56.300000)<br>location:溫溼度感測器(家居型) Sensor:Temperature and humidity Temperature(26.000000) ,Humidity(54.000000)<br>location:亮度感測器(Lux流眀值) Sensor:Light Lux Lux Value(-2.000000) <br>location:甲烷 氣體感測器(家居感測器) Sensor:Methane Gas Methane Gas(569.000000)<br>" ,
+			"species": "Environement"},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.930743, 23.952283]
+		}
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+			"amount": 12 ,
+			 "title": "吳厝國小 <br> (WTES) <br> GPS:(120.602761,24.267621) <br> 臺中市清水區吳厝路35號  <br>" ,
+			"species": "Environement"},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.602761, 24.267621]
+		}
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+			"amount": 8 ,
+			 "title": "新北市勞工大學 <br> (LABOR) <br> GPS:(121.498315806,25.0828540007) <br> 新北市三重區新北大道一段9號 <br>location:亮度感測器(Lux流眀值) Sensor:Light Lux Lux Value(225.830000) <br>location:分貝感測器(Sound Decibel Sensor) Sensor:Sound Decibel Decibel Value(92.800000)<br>" ,
+			"species": "Environement"},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.498316, 25.082854]
+		}
+	},
+
+	{
+		"type": "Feature",
+		"properties": {
+			"amount": 7 ,
+			 "title": "基隆高中圖書館 <br> (KLSHLIB01) <br> GPS:(121.732934279,25.1077091798) <br> 基隆市暖暖區源遠路20號 <br>location:溫溼度感測器(家居型) Sensor:Temperature and humidity Temperature(25.000000) ,Humidity(98.000000)<br>location:亮度感測器(Lux流眀值) Sensor:Light Lux Lux Value(157.500000) <br>location:一氧化碳 氣體感測器模組(家用型) Sensor:Carbon Monoxide Carbon Monoxide(234.000000)<br>" ,
+			"species": "Environement"},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.732934, 25.107709]
+		}
+	}
+	]
+}

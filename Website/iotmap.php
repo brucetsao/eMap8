@@ -283,7 +283,7 @@
 			{
                 map.moveLayer('circles');
                 map.moveLayer('numbers');
-                // 新增 Filter，先設定只顯示「AEDES」
+                // 新增 Filter，先設定只顯示「circles」
                 map.setFilter('circles', ['==', 'species', 'Environement']);
                 map.setFilter('numbers', ['==', 'species', 'Environement']);
                 // 切換選項按鈕

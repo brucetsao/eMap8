@@ -1,0 +1,7781 @@
+{
+	"type": "FeatureCollection",
+	"features": 
+[
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.847244,21.902650]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 258 ,
+		"wspeed": 4 ,
+		"temp": 30.700000 ,
+		"humid": 7.600000 ,
+		"bar": 1008.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.727792,21.923578]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 281 ,
+		"wspeed": 3 ,
+		"temp": 33.300000 ,
+		"humid": 6.700000 ,
+		"bar": 1008.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.802258,21.968561]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 304 ,
+		"wspeed": 2 ,
+		"temp": 29.700000 ,
+		"humid": 7.700000 ,
+		"bar": 983.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.853619,21.995386]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 261 ,
+		"wspeed": 4 ,
+		"temp": 32.400000 ,
+		"humid": 6.700000 ,
+		"bar": 1010.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.504119,22.050931]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 244 ,
+		"wspeed": 4 ,
+		"temp": 30.800000 ,
+		"humid": 7.900000 ,
+		"bar": 1009.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.708056,22.075833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 309 ,
+		"wspeed": 2 ,
+		"temp": 31.400000 ,
+		"humid": 7.300000 ,
+		"bar": 1012.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.828758,22.077883]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 278 ,
+		"wspeed": 2 ,
+		"temp": 30.200000 ,
+		"humid": 7.300000 ,
+		"bar": 985.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.495094,22.083031]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 278 ,
+		"wspeed": 7 ,
+		"temp": 28.300000 ,
+		"humid": 8.200000 ,
+		"bar": 986.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.784589,22.131817]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 216 ,
+		"wspeed": 3 ,
+		"temp": 29.200000 ,
+		"humid": 7.400000 ,
+		"bar": 984.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.833200,22.170192]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 282 ,
+		"wspeed": 9 ,
+		"temp": 27.400000 ,
+		"humid": 7.600000 ,
+		"bar": 951.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.684131,22.191928]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 272 ,
+		"wspeed": 3 ,
+		"temp": 31.000000 ,
+		"humid": 7.400000 ,
+		"bar": 1010.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.879586,22.207208]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 284 ,
+		"wspeed": 6 ,
+		"temp": 30.700000 ,
+		"humid": 6.400000 ,
+		"bar": 986.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.653058,22.248639]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 281 ,
+		"wspeed": 6 ,
+		"temp": 30.100000 ,
+		"humid": 7.700000 ,
+		"bar": 1009.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.881944,22.291944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 235 ,
+		"wspeed": 4 ,
+		"temp": 34.200000 ,
+		"humid": 5.300000 ,
+		"bar": 1009.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.849339,22.320422]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 249 ,
+		"wspeed": 4 ,
+		"temp": 31.600000 ,
+		"humid": 5.600000 ,
+		"bar": 965.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.354194,22.334025]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 299 ,
+		"wspeed": 2 ,
+		"temp": 33.200000 ,
+		"humid": 6.500000 ,
+		"bar": 1004.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.582611,22.369511]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 312 ,
+		"wspeed": 6 ,
+		"temp": 30.000000 ,
+		"humid": 8.100000 ,
+		"bar": 1009.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.620250,22.372167]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 255 ,
+		"wspeed": 1 ,
+		"temp": 32.400000 ,
+		"humid": 6.300000 ,
+		"bar": 1002.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.745083,22.405861]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 11 ,
+		"wspeed": 3 ,
+		"temp": 18.000000 ,
+		"humid": 10.000000 ,
+		"bar": 835.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.918900,22.418014]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 74 ,
+		"wspeed": 3 ,
+		"temp": 30.200000 ,
+		"humid": 6.900000 ,
+		"bar": 1006.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.544222,22.421194]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 266 ,
+		"wspeed": 5 ,
+		"temp": 31.800000 ,
+		"humid": 7.700000 ,
+		"bar": 1009.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.885742,22.432239]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 250 ,
+		"wspeed": 1 ,
+		"temp": 27.900000 ,
+		"humid": 5.600000 ,
+		"bar": 911.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.502083,22.432667]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 262 ,
+		"wspeed": 5 ,
+		"temp": 30.000000 ,
+		"humid": 7.100000 ,
+		"bar": 1009.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.879528,22.454908]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 233 ,
+		"wspeed": 2 ,
+		"temp": 34.700000 ,
+		"humid": 4.200000 ,
+		"bar": 993.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.432703,22.464244]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 267 ,
+		"wspeed": 3 ,
+		"temp": 31.900000 ,
+		"humid": 7.600000 ,
+		"bar": 1009.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.574833,22.469778]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 274 ,
+		"wspeed": 3 ,
+		"temp": 33.000000 ,
+		"humid": 6.500000 ,
+		"bar": 1007.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.935278,22.480000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 33.600000 ,
+		"humid": 4.700000 ,
+		"bar": 967.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.494694,22.487694]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 250 ,
+		"wspeed": 3 ,
+		"temp": 31.700000 ,
+		"humid": 6.900000 ,
+		"bar": 1010.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.386556,22.509583]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 268 ,
+		"wspeed": 3 ,
+		"temp": 32.100000 ,
+		"humid": 7.000000 ,
+		"bar": 1010.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.498972,22.516639]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 235 ,
+		"wspeed": 3 ,
+		"temp": 32.400000 ,
+		"humid": 7.000000 ,
+		"bar": 1009.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.883803,22.522769]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 34.600000 ,
+		"humid": 4.500000 ,
+		"bar": 957.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.617056,22.529111]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 329 ,
+		"wspeed": 1 ,
+		"temp": 33.700000 ,
+		"humid": 5.200000 ,
+		"bar": 1001.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.531972,22.536139]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 259 ,
+		"wspeed": 3 ,
+		"temp": 32.000000 ,
+		"humid": 6.300000 ,
+		"bar": 1008.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.958889,22.540000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 93 ,
+		"wspeed": 1 ,
+		"temp": 34.000000 ,
+		"humid": 5.200000 ,
+		"bar": 985.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.453500,22.545194]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 267 ,
+		"wspeed": 3 ,
+		"temp": 32.600000 ,
+		"humid": 10.000000 ,
+		"bar": 1009.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.384500,22.546944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 275 ,
+		"wspeed": 3 ,
+		"temp": 32.800000 ,
+		"humid": 5.400000 ,
+		"bar": 1004.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.951617,22.569219]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 213 ,
+		"wspeed": 2 ,
+		"temp": 30.300000 ,
+		"humid": 6.600000 ,
+		"bar": 916.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.535392,22.586642]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 327 ,
+		"wspeed": 1 ,
+		"temp": 32.800000 ,
+		"humid": 5.900000 ,
+		"bar": 1009.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.985322,22.589372]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 56 ,
+		"wspeed": 2 ,
+		"temp": 30.300000 ,
+		"humid": 7.100000 ,
+		"bar": 1005.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.482389,22.589611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 310 ,
+		"wspeed": 2 ,
+		"temp": 32.600000 ,
+		"humid": 5.900000 ,
+		"bar": 1007.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.656922,22.589950]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 249 ,
+		"wspeed": 1 ,
+		"temp": 27.100000 ,
+		"humid": 7.400000 ,
+		"bar": 928.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.277889,22.590417]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 243 ,
+		"wspeed": 1 ,
+		"temp": 33.500000 ,
+		"humid": 6.100000 ,
+		"bar": 1010.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.606250,22.594139]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 338 ,
+		"wspeed": 2 ,
+		"temp": 33.100000 ,
+		"humid": 5.200000 ,
+		"bar": 1006.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.952772,22.596589]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 123 ,
+		"wspeed": 2 ,
+		"temp": 33.100000 ,
+		"humid": 5.800000 ,
+		"bar": 993.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.387667,22.607389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 283 ,
+		"wspeed": 2 ,
+		"temp": 33.300000 ,
+		"humid": 5.700000 ,
+		"bar": 1009.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.977275,22.610825]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 34.500000 ,
+		"humid": 5.300000 ,
+		"bar": 951.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.322583,22.624528]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 266 ,
+		"wspeed": 2 ,
+		"temp": 32.100000 ,
+		"humid": 6.400000 ,
+		"bar": 1007.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.267500,22.625139]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 261 ,
+		"wspeed": 3 ,
+		"temp": 30.800000 ,
+		"humid": 7.600000 ,
+		"bar": 1008.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.290583,22.629111]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 201 ,
+		"wspeed": 2 ,
+		"temp": 31.700000 ,
+		"humid": 6.900000 ,
+		"bar": 1010.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.303278,22.646917]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 242 ,
+		"wspeed": 3 ,
+		"temp": 31.500000 ,
+		"humid": 6.700000 ,
+		"bar": 1008.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.348056,22.648611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 323 ,
+		"wspeed": 2 ,
+		"temp": 32.900000 ,
+		"humid": 6.200000 ,
+		"bar": 1008.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.519139,22.652556]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 12 ,
+		"wspeed": 2 ,
+		"temp": 33.100000 ,
+		"humid": 6.100000 ,
+		"bar": 1006.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.483611,22.661944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 299 ,
+		"wspeed": 1 ,
+		"temp": 32.500000 ,
+		"humid": 5.900000 ,
+		"bar": 1008.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.467267,22.669025]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 244 ,
+		"wspeed": 1 ,
+		"temp": 29.900000 ,
+		"humid": 7.800000 ,
+		"bar": 997.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.276850,22.676689]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 283 ,
+		"wspeed": 3 ,
+		"temp": 30.800000 ,
+		"humid": 7.300000 ,
+		"bar": 1006.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.678889,22.684722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 343 ,
+		"wspeed": 2 ,
+		"temp": 28.200000 ,
+		"humid": 7.400000 ,
+		"bar": 933.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.997583,22.686667]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 64 ,
+		"wspeed": 1 ,
+		"temp": 30.000000 ,
+		"humid": 6.500000 ,
+		"bar": 954.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.534611,22.694833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 301 ,
+		"wspeed": 2 ,
+		"temp": 32.400000 ,
+		"humid": 5.800000 ,
+		"bar": 1004.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.339667,22.702861]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 266 ,
+		"wspeed": 3 ,
+		"temp": 32.100000 ,
+		"humid": 6.600000 ,
+		"bar": 1006.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.074603,22.704053]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 127 ,
+		"wspeed": 1 ,
+		"temp": 31.400000 ,
+		"humid": 6.900000 ,
+		"bar": 1008.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.631889,22.711667]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 161 ,
+		"wspeed": 1 ,
+		"temp": 33.200000 ,
+		"humid": 5.400000 ,
+		"bar": 998.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.277917,22.721528]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 256 ,
+		"wspeed": 2 ,
+		"temp": 32.000000 ,
+		"humid": 6.900000 ,
+		"bar": 1009.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.338583,22.731944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 258 ,
+		"wspeed": 2 ,
+		"temp": 32.600000 ,
+		"humid": 5.900000 ,
+		"bar": 1008.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.438611,22.740278]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 241 ,
+		"wspeed": 2 ,
+		"temp": 33.700000 ,
+		"humid": 5.700000 ,
+		"bar": 1007.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.522697,22.741342]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 350 ,
+		"wspeed": 2 ,
+		"temp": 33.200000 ,
+		"humid": 6.600000 ,
+		"bar": 1005.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.482500,22.742278]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 236 ,
+		"wspeed": 3 ,
+		"temp": 32.900000 ,
+		"humid": 5.800000 ,
+		"bar": 1005.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.735556,22.744444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 257 ,
+		"wspeed": 1 ,
+		"temp": 25.300000 ,
+		"humid": 6.400000 ,
+		"bar": 897.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.297694,22.759583]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 259 ,
+		"wspeed": 3 ,
+		"temp": 32.900000 ,
+		"humid": 6.400000 ,
+		"bar": 1008.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.259250,22.762444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 256 ,
+		"wspeed": 4 ,
+		"temp": 30.800000 ,
+		"humid": 7.400000 ,
+		"bar": 1009.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.486528,22.780972]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 91 ,
+		"wspeed": 1 ,
+		"temp": 32.400000 ,
+		"humid": 7.000000 ,
+		"bar": 1003.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.238278,22.785583]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 230 ,
+		"wspeed": 3 ,
+		"temp": 31.000000 ,
+		"humid": 7.700000 ,
+		"bar": 1010.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.286889,22.798844]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 237 ,
+		"wspeed": 3 ,
+		"temp": 32.400000 ,
+		"humid": 6.200000 ,
+		"bar": 1009.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.347444,22.805944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 280 ,
+		"wspeed": 4 ,
+		"temp": 31.800000 ,
+		"humid": 6.200000 ,
+		"bar": 1004.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.101247,22.811789]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 31.700000 ,
+		"humid": 5.800000 ,
+		"bar": 964.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.228806,22.824944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 223 ,
+		"wspeed": 2 ,
+		"temp": 31.900000 ,
+		"humid": 6.700000 ,
+		"bar": 1009.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.592722,22.828222]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 318 ,
+		"wspeed": 1 ,
+		"temp": 32.900000 ,
+		"humid": 4.100000 ,
+		"bar": 1000.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.675806,22.834889]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 203 ,
+		"wspeed": 1 ,
+		"temp": 26.500000 ,
+		"humid": 6.300000 ,
+		"bar": 903.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.251361,22.856639]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 251 ,
+		"wspeed": 3 ,
+		"temp": 32.700000 ,
+		"humid": 6.400000 ,
+		"bar": 1007.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.319528,22.884944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 244 ,
+		"wspeed": 2 ,
+		"temp": 32.100000 ,
+		"humid": 6.100000 ,
+		"bar": 1007.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.236444,22.888889]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 269 ,
+		"wspeed": 4 ,
+		"temp": 31.700000 ,
+		"humid": 6.400000 ,
+		"bar": 1007.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.656039,22.890339]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 164 ,
+		"wspeed": 1 ,
+		"temp": 33.500000 ,
+		"humid": 4.900000 ,
+		"bar": 978.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.475528,22.890389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 282 ,
+		"wspeed": 2 ,
+		"temp": 32.800000 ,
+		"humid": 5.600000 ,
+		"bar": 1005.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.393889,22.895000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 221 ,
+		"wspeed": 1 ,
+		"temp": 32.000000 ,
+		"humid": 6.500000 ,
+		"bar": 1003.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.511111,22.900556]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 271 ,
+		"wspeed": 2 ,
+		"temp": 34.200000 ,
+		"humid": 5.800000 ,
+		"bar": 1005.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.075983,22.904381]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 122 ,
+		"wspeed": 1 ,
+		"temp": 31.200000 ,
+		"humid": 5.800000 ,
+		"bar": 982.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.680000,22.907694]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 242 ,
+		"wspeed": 3 ,
+		"temp": 30.300000 ,
+		"humid": 5.900000 ,
+		"bar": 965.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.174583,22.908444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 252 ,
+		"wspeed": 1 ,
+		"temp": 32.000000 ,
+		"humid": 6.900000 ,
+		"bar": 1009.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.114908,22.919517]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 187 ,
+		"wspeed": 1 ,
+		"temp": 31.100000 ,
+		"humid": 6.300000 ,
+		"bar": 968.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.221844,22.956258]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 243 ,
+		"wspeed": 3 ,
+		"temp": 29.100000 ,
+		"humid": 6.800000 ,
+		"bar": 962.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.361194,22.961306]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 268 ,
+		"wspeed": 1 ,
+		"temp": 32.400000 ,
+		"humid": 6.100000 ,
+		"bar": 998.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.180417,22.963028]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 254 ,
+		"wspeed": 3 ,
+		"temp": 31.400000 ,
+		"humid": 7.100000 ,
+		"bar": 1009.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.319722,22.964861]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 289 ,
+		"wspeed": 1 ,
+		"temp": 33.500000 ,
+		"humid": 6.000000 ,
+		"bar": 1005.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.249778,22.970111]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 245 ,
+		"wspeed": 2 ,
+		"temp": 32.200000 ,
+		"humid": 6.600000 ,
+		"bar": 1008.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.531778,22.972778]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 223 ,
+		"wspeed": 1 ,
+		"temp": 34.300000 ,
+		"humid": 5.100000 ,
+		"bar": 997.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.298333,22.973611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 190 ,
+		"wspeed": 1 ,
+		"temp": 31.200000 ,
+		"humid": 7.200000 ,
+		"bar": 1005.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.148625,22.976119]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 147 ,
+		"wspeed": 2 ,
+		"temp": 31.500000 ,
+		"humid": 5.900000 ,
+		"bar": 987.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.458333,22.976944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 210 ,
+		"wspeed": 1 ,
+		"temp": 32.400000 ,
+		"humid": 5.800000 ,
+		"bar": 1000.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.285431,22.993514]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 212 ,
+		"wspeed": 1 ,
+		"temp": 34.200000 ,
+		"humid": 5.600000 ,
+		"bar": 1008.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.144111,22.994972]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 234 ,
+		"wspeed": 2 ,
+		"temp": 32.400000 ,
+		"humid": 7.200000 ,
+		"bar": 1009.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.625528,22.999750]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 264 ,
+		"wspeed": 0 ,
+		"temp": 32.300000 ,
+		"humid": 5.500000 ,
+		"bar": 981.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.186333,23.012167]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 263 ,
+		"wspeed": 1 ,
+		"temp": 32.500000 ,
+		"humid": 6.400000 ,
+		"bar": 1008.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.315558,23.022142]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 172 ,
+		"wspeed": 2 ,
+		"temp": 30.300000 ,
+		"humid": 7.100000 ,
+		"bar": 1000.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.339806,23.023139]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 263 ,
+		"wspeed": 3 ,
+		"temp": 34.000000 ,
+		"humid": 5.900000 ,
+		"bar": 1003.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.166931,23.041300]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 174 ,
+		"wspeed": 2 ,
+		"temp": 32.700000 ,
+		"humid": 5.500000 ,
+		"bar": 985.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.400444,23.058528]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 254 ,
+		"wspeed": 3 ,
+		"temp": 31.700000 ,
+		"humid": 6.400000 ,
+		"bar": 1004.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.290417,23.063556]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 248 ,
+		"wspeed": 1 ,
+		"temp": 34.300000 ,
+		"humid": 5.100000 ,
+		"bar": 1009.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.120000,23.071389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 157 ,
+		"wspeed": 0 ,
+		"temp": 21.100000 ,
+		"humid": 9.400000 ,
+		"bar": 839.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.355194,23.077444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 203 ,
+		"wspeed": 1 ,
+		"temp": 32.700000 ,
+		"humid": 6.400000 ,
+		"bar": 1003.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.136667,23.078333]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 111 ,
+		"wspeed": 1 ,
+		"temp": 33.700000 ,
+		"humid": 7.400000 ,
+		"bar": 1010.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.486944,23.081611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 269 ,
+		"wspeed": 1 ,
+		"temp": 35.300000 ,
+		"humid": 4.400000 ,
+		"bar": 997.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.582500,23.081667]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 157 ,
+		"wspeed": 1 ,
+		"temp": 34.400000 ,
+		"humid": 5.100000 ,
+		"bar": 978.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.375261,23.101389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 225 ,
+		"wspeed": 1 ,
+		"temp": 30.200000 ,
+		"humid": 6.700000 ,
+		"bar": 1007.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.219972,23.104417]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 264 ,
+		"wspeed": 3 ,
+		"temp": 33.200000 ,
+		"humid": 6.300000 ,
+		"bar": 1010.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.289444,23.114444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 267 ,
+		"wspeed": 3 ,
+		"temp": 33.200000 ,
+		"humid": 4.200000 ,
+		"bar": 1004.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.352750,23.120611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 265 ,
+		"wspeed": 2 ,
+		"temp": 32.500000 ,
+		"humid": 6.300000 ,
+		"bar": 1006.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.201667,23.121389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 203 ,
+		"wspeed": 4 ,
+		"temp": 30.600000 ,
+		"humid": 6.000000 ,
+		"bar": 977.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.071589,23.122550]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 206 ,
+		"wspeed": 4 ,
+		"temp": 31.300000 ,
+		"humid": 6.400000 ,
+		"bar": 1011.200000 ,
+		"rain": -99.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.195083,23.127417]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 246 ,
+		"wspeed": 2 ,
+		"temp": 33.500000 ,
+		"humid": 5.700000 ,
+		"bar": 1009.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.452472,23.127833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 211 ,
+		"wspeed": 1 ,
+		"temp": 35.600000 ,
+		"humid": 4.700000 ,
+		"bar": 1003.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.078164,23.149036]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 209 ,
+		"wspeed": 3 ,
+		"temp": 31.500000 ,
+		"humid": 6.800000 ,
+		"bar": 1011.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.625189,23.150164]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 232 ,
+		"wspeed": 1 ,
+		"temp": 31.100000 ,
+		"humid": 5.300000 ,
+		"bar": 965.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.062222,23.152222]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 85 ,
+		"wspeed": 2 ,
+		"temp": 29.200000 ,
+		"humid": 5.800000 ,
+		"bar": 924.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.241286,23.173442]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 233 ,
+		"wspeed": 2 ,
+		"temp": 31.300000 ,
+		"humid": 5.800000 ,
+		"bar": 980.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.136667,23.175000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 224 ,
+		"wspeed": 3 ,
+		"temp": 33.700000 ,
+		"humid": 6.200000 ,
+		"bar": 1011.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.240500,23.185056]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 228 ,
+		"wspeed": 2 ,
+		"temp": 32.700000 ,
+		"humid": 6.100000 ,
+		"bar": 1009.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.307528,23.195028]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 247 ,
+		"wspeed": 2 ,
+		"temp": 32.600000 ,
+		"humid": 6.900000 ,
+		"bar": 1007.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.254167,23.210556]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 218 ,
+		"wspeed": 4 ,
+		"temp": 30.800000 ,
+		"humid": 6.000000 ,
+		"bar": 984.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.127656,23.216733]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 224 ,
+		"wspeed": 4 ,
+		"temp": 31.400000 ,
+		"humid": 6.700000 ,
+		"bar": 1009.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.489222,23.221472]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 141 ,
+		"wspeed": 1 ,
+		"temp": 34.300000 ,
+		"humid": 4.100000 ,
+		"bar": 994.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.392758,23.223828]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 258 ,
+		"wspeed": 3 ,
+		"temp": 31.600000 ,
+		"humid": 6.100000 ,
+		"bar": 994.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.797778,23.224167]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 225 ,
+		"wspeed": 3 ,
+		"temp": 31.200000 ,
+		"humid": 4.400000 ,
+		"bar": 931.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.398542,23.225581]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 193 ,
+		"wspeed": 1 ,
+		"temp": 31.200000 ,
+		"humid": 7.100000 ,
+		"bar": 992.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.248153,23.228686]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 239 ,
+		"wspeed": 3 ,
+		"temp": 33.900000 ,
+		"humid": 5.700000 ,
+		"bar": 1010.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.174072,23.232100]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 233 ,
+		"wspeed": 2 ,
+		"temp": 32.500000 ,
+		"humid": 6.000000 ,
+		"bar": 1008.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.633564,23.243628]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 257 ,
+		"wspeed": 1 ,
+		"temp": 29.500000 ,
+		"humid": 5.700000 ,
+		"bar": 935.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.978056,23.250000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 347 ,
+		"wspeed": 2 ,
+		"temp": 19.900000 ,
+		"humid": 4.900000 ,
+		"bar": 774.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.367158,23.255089]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 233 ,
+		"wspeed": 2 ,
+		"temp": 34.300000 ,
+		"humid": 5.300000 ,
+		"bar": 1007.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.117367,23.269517]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 224 ,
+		"wspeed": 4 ,
+		"temp": 31.800000 ,
+		"humid": 6.900000 ,
+		"bar": 1010.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.297364,23.270336]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 215 ,
+		"wspeed": 3 ,
+		"temp": 32.700000 ,
+		"humid": 5.500000 ,
+		"bar": 989.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.180172,23.273047]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 64 ,
+		"wspeed": 2 ,
+		"temp": 35.100000 ,
+		"humid": 4.400000 ,
+		"bar": 938.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.239506,23.274339]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 224 ,
+		"wspeed": 2 ,
+		"temp": 32.600000 ,
+		"humid": 5.800000 ,
+		"bar": 1009.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.403889,23.288611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 135 ,
+		"wspeed": 1 ,
+		"temp": 34.700000 ,
+		"humid": 6.000000 ,
+		"bar": 979.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.340419,23.292536]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 103 ,
+		"wspeed": 0 ,
+		"temp": 31.300000 ,
+		"humid": 6.500000 ,
+		"bar": 956.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.377492,23.298339]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 219 ,
+		"wspeed": 3 ,
+		"temp": 33.600000 ,
+		"humid": 5.700000 ,
+		"bar": 1007.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.656664,23.300847]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 260 ,
+		"wspeed": 2 ,
+		"temp": 30.500000 ,
+		"humid": 5.500000 ,
+		"bar": 963.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.308586,23.312447]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 197 ,
+		"wspeed": 2 ,
+		"temp": 32.700000 ,
+		"humid": 5.600000 ,
+		"bar": 1007.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.331556,23.323306]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 206 ,
+		"wspeed": 0 ,
+		"temp": 34.600000 ,
+		"humid": 5.100000 ,
+		"bar": 992.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.573611,23.326389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 140 ,
+		"wspeed": 3 ,
+		"temp": 33.200000 ,
+		"humid": 4.500000 ,
+		"bar": 979.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.499931,23.332933]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 223 ,
+		"wspeed": 1 ,
+		"temp": 31.200000 ,
+		"humid": 5.400000 ,
+		"bar": 968.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.295197,23.346047]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 126 ,
+		"wspeed": 1 ,
+		"temp": 33.000000 ,
+		"humid": 5.100000 ,
+		"bar": 988.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.205061,23.347464]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 126 ,
+		"wspeed": 0 ,
+		"temp": 28.500000 ,
+		"humid": 6.000000 ,
+		"bar": 920.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.406328,23.349228]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 217 ,
+		"wspeed": 2 ,
+		"temp": 32.800000 ,
+		"humid": 5.800000 ,
+		"bar": 1005.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.354211,23.368094]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 210 ,
+		"wspeed": 2 ,
+		"temp": 33.100000 ,
+		"humid": 5.400000 ,
+		"bar": 1007.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.374825,23.370733]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 152 ,
+		"wspeed": 1 ,
+		"temp": 27.000000 ,
+		"humid": 7.000000 ,
+		"bar": 907.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.239936,23.371644]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 220 ,
+		"wspeed": 3 ,
+		"temp": 32.500000 ,
+		"humid": 5.700000 ,
+		"bar": 1009.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.159667,23.382611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 212 ,
+		"wspeed": 3 ,
+		"temp": 31.800000 ,
+		"humid": 6.700000 ,
+		"bar": 1010.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.660108,23.385575]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 18.100000 ,
+		"humid": 7.000000 ,
+		"bar": 960.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.469225,23.387811]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 219 ,
+		"wspeed": 1 ,
+		"temp": 33.100000 ,
+		"humid": 5.700000 ,
+		"bar": 1003.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.708528,23.390872]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 302 ,
+		"wspeed": 1 ,
+		"temp": 24.000000 ,
+		"humid": 8.200000 ,
+		"bar": 867.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [119.314667,23.401778]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 185 ,
+		"wspeed": 6 ,
+		"temp": 27.200000 ,
+		"humid": 8.600000 ,
+		"bar": 1007.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.300231,23.413075]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 254 ,
+		"wspeed": 3 ,
+		"temp": 32.400000 ,
+		"humid": 5.700000 ,
+		"bar": 1008.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.380792,23.421475]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 224 ,
+		"wspeed": 1 ,
+		"temp": 33.800000 ,
+		"humid": 5.100000 ,
+		"bar": 1006.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.514797,23.427144]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 266 ,
+		"wspeed": 2 ,
+		"temp": 31.800000 ,
+		"humid": 5.500000 ,
+		"bar": 993.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.230928,23.436364]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 237 ,
+		"wspeed": 1 ,
+		"temp": 32.700000 ,
+		"humid": 6.200000 ,
+		"bar": 1009.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.741403,23.455769]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 242 ,
+		"wspeed": 2 ,
+		"temp": 26.300000 ,
+		"humid": 5.600000 ,
+		"bar": 906.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.323303,23.456792]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 267 ,
+		"wspeed": 2 ,
+		"temp": 32.600000 ,
+		"humid": 5.900000 ,
+		"bar": 1008.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.486667,23.456944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 169 ,
+		"wspeed": 5 ,
+		"temp": 29.900000 ,
+		"humid": 8.100000 ,
+		"bar": 1000.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.452408,23.459414]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 242 ,
+		"wspeed": 2 ,
+		"temp": 32.700000 ,
+		"humid": 5.700000 ,
+		"bar": 1005.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.145722,23.460653]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 199 ,
+		"wspeed": 1 ,
+		"temp": 31.700000 ,
+		"humid": 7.000000 ,
+		"bar": 1009.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.546028,23.466408]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 157 ,
+		"wspeed": 1 ,
+		"temp": 32.200000 ,
+		"humid": 5.100000 ,
+		"bar": 986.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.365833,23.469722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 147 ,
+		"wspeed": 1 ,
+		"temp": 30.500000 ,
+		"humid": 6.300000 ,
+		"bar": 981.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.947853,23.472294]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": -99 ,
+		"wspeed": -99 ,
+		"temp": 6.300000 ,
+		"humid": 7.200000 ,
+		"bar": 645.500000 ,
+		"rain": -99.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.402597,23.476069]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 343 ,
+		"wspeed": 1 ,
+		"temp": 32.400000 ,
+		"humid": 6.100000 ,
+		"bar": 984.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.282500,23.494611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 186 ,
+		"wspeed": 3 ,
+		"temp": 32.900000 ,
+		"humid": 6.000000 ,
+		"bar": 1008.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.298764,23.494642]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 24.400000 ,
+		"humid": 8.000000 ,
+		"bar": 889.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.691111,23.495833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 219 ,
+		"wspeed": 1 ,
+		"temp": 24.500000 ,
+		"humid": 7.100000 ,
+		"bar": 870.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.221625,23.516064]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 221 ,
+		"wspeed": 1 ,
+		"temp": 32.900000 ,
+		"humid": 6.200000 ,
+		"bar": 1009.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.382086,23.525708]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 190 ,
+		"wspeed": 1 ,
+		"temp": 31.400000 ,
+		"humid": 5.900000 ,
+		"bar": 997.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.547378,23.527931]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 204 ,
+		"wspeed": 3 ,
+		"temp": 32.300000 ,
+		"humid": 5.400000 ,
+		"bar": 995.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.835553,23.534519]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 76 ,
+		"wspeed": 1 ,
+		"temp": 25.600000 ,
+		"humid": 5.800000 ,
+		"bar": 847.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.161200,23.538014]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 203 ,
+		"wspeed": 3 ,
+		"temp": 31.900000 ,
+		"humid": 6.900000 ,
+		"bar": 1010.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.420331,23.553497]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 218 ,
+		"wspeed": 2 ,
+		"temp": 33.300000 ,
+		"humid": 5.700000 ,
+		"bar": 1006.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.337600,23.555011]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 240 ,
+		"wspeed": 3 ,
+		"temp": 32.700000 ,
+		"humid": 5.600000 ,
+		"bar": 1008.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [119.460328,23.564311]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 175 ,
+		"wspeed": 9 ,
+		"temp": 27.200000 ,
+		"humid": 8.900000 ,
+		"bar": 1004.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.237839,23.574658]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 215 ,
+		"wspeed": 3 ,
+		"temp": 32.500000 ,
+		"humid": 6.400000 ,
+		"bar": 1009.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.283672,23.575803]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 234 ,
+		"wspeed": 5 ,
+		"temp": 31.700000 ,
+		"humid": 6.600000 ,
+		"bar": 1008.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.506678,23.585708]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 190 ,
+		"wspeed": 3 ,
+		"temp": 29.400000 ,
+		"humid": 6.600000 ,
+		"bar": 994.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.547464,23.587147]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 197 ,
+		"wspeed": 3 ,
+		"temp": 32.000000 ,
+		"humid": 5.400000 ,
+		"bar": 992.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.370389,23.589750]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 157 ,
+		"wspeed": 1 ,
+		"temp": 33.900000 ,
+		"humid": 6.400000 ,
+		"bar": 975.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.685342,23.597319]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 282 ,
+		"wspeed": 1 ,
+		"temp": 27.300000 ,
+		"humid": 6.700000 ,
+		"bar": 892.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.450281,23.602361]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 214 ,
+		"wspeed": 2 ,
+		"temp": 33.300000 ,
+		"humid": 5.600000 ,
+		"bar": 1005.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.395439,23.605872]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 204 ,
+		"wspeed": 4 ,
+		"temp": 31.900000 ,
+		"humid": 6.300000 ,
+		"bar": 1007.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.217222,23.631111]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 222 ,
+		"wspeed": 4 ,
+		"temp": 33.500000 ,
+		"humid": 6.200000 ,
+		"bar": 1010.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.423400,23.647817]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 216 ,
+		"wspeed": 4 ,
+		"temp": 32.500000 ,
+		"humid": 5.500000 ,
+		"bar": 1006.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.306892,23.651544]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 229 ,
+		"wspeed": 3 ,
+		"temp": 32.700000 ,
+		"humid": 6.000000 ,
+		"bar": 1008.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.551619,23.656050]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 225 ,
+		"wspeed": 3 ,
+		"temp": 32.800000 ,
+		"humid": 5.100000 ,
+		"bar": 1000.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.416839,23.662497]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 204 ,
+		"wspeed": 2 ,
+		"temp": 32.700000 ,
+		"humid": 6.700000 ,
+		"bar": 995.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.244675,23.676692]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 224 ,
+		"wspeed": 2 ,
+		"temp": 31.900000 ,
+		"humid": 6.600000 ,
+		"bar": 1009.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.470231,23.680478]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 226 ,
+		"wspeed": 3 ,
+		"temp": 32.000000 ,
+		"humid": 5.900000 ,
+		"bar": 1003.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.387436,23.680772]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 199 ,
+		"wspeed": 4 ,
+		"temp": 32.100000 ,
+		"humid": 6.100000 ,
+		"bar": 1007.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.519219,23.684706]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 134 ,
+		"wspeed": 3 ,
+		"temp": 30.300000 ,
+		"humid": 7.000000 ,
+		"bar": 930.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.595289,23.688211]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 243 ,
+		"wspeed": 2 ,
+		"temp": 33.100000 ,
+		"humid": 5.100000 ,
+		"bar": 998.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.842778,23.691389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 33 ,
+		"wspeed": 0 ,
+		"temp": 33.500000 ,
+		"humid": 5.100000 ,
+		"bar": 954.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.295503,23.692672]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 196 ,
+		"wspeed": 6 ,
+		"temp": 31.700000 ,
+		"humid": 6.600000 ,
+		"bar": 1008.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.189422,23.703283]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 225 ,
+		"wspeed": 5 ,
+		"temp": 31.700000 ,
+		"humid": 7.000000 ,
+		"bar": 1009.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.411969,23.711022]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 83 ,
+		"wspeed": 2 ,
+		"temp": 31.700000 ,
+		"humid": 6.000000 ,
+		"bar": 993.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.183736,23.718408]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 226 ,
+		"wspeed": 7 ,
+		"temp": 31.000000 ,
+		"humid": 6.700000 ,
+		"bar": 1010.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.433911,23.720939]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 219 ,
+		"wspeed": 2 ,
+		"temp": 33.300000 ,
+		"humid": 5.900000 ,
+		"bar": 1006.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.532972,23.722303]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 206 ,
+		"wspeed": 4 ,
+		"temp": 32.000000 ,
+		"humid": 5.600000 ,
+		"bar": 1004.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.779167,23.729722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 282 ,
+		"wspeed": 1 ,
+		"temp": 27.500000 ,
+		"humid": 7.200000 ,
+		"bar": 913.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.411994,23.737072]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 28.100000 ,
+		"humid": 7.100000 ,
+		"bar": 944.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.409817,23.739206]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 214 ,
+		"wspeed": 3 ,
+		"temp": 32.700000 ,
+		"humid": 5.600000 ,
+		"bar": 1009.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.531975,23.740156]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 60 ,
+		"wspeed": 2 ,
+		"temp": 29.200000 ,
+		"humid": 7.200000 ,
+		"bar": 972.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.445278,23.747917]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 195 ,
+		"wspeed": 1 ,
+		"temp": 31.500000 ,
+		"humid": 6.500000 ,
+		"bar": 998.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.601508,23.750436]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 224 ,
+		"wspeed": 4 ,
+		"temp": 32.000000 ,
+		"humid": 5.800000 ,
+		"bar": 999.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.310833,23.757500]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 223 ,
+		"wspeed": 4 ,
+		"temp": 33.400000 ,
+		"humid": 6.200000 ,
+		"bar": 1009.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.494247,23.762947]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 198 ,
+		"wspeed": 4 ,
+		"temp": 31.600000 ,
+		"humid": 5.900000 ,
+		"bar": 1004.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.677778,23.764722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 221 ,
+		"wspeed": 2 ,
+		"temp": 34.500000 ,
+		"humid": 5.200000 ,
+		"bar": 993.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.400811,23.774550]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 200 ,
+		"wspeed": 4 ,
+		"temp": 32.000000 ,
+		"humid": 6.500000 ,
+		"bar": 1007.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.534167,23.798889]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 112 ,
+		"wspeed": 0 ,
+		"temp": 31.900000 ,
+		"humid": 7.800000 ,
+		"bar": 981.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.459253,23.802150]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 222 ,
+		"wspeed": 3 ,
+		"temp": 33.000000 ,
+		"humid": 5.700000 ,
+		"bar": 1006.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.531686,23.811736]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 141 ,
+		"wspeed": 1 ,
+		"temp": 29.500000 ,
+		"humid": 7.600000 ,
+		"bar": 955.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.609028,23.812778]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 231 ,
+		"wspeed": 2 ,
+		"temp": 33.600000 ,
+		"humid": 5.900000 ,
+		"bar": 1000.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.433194,23.813667]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 104 ,
+		"wspeed": 2 ,
+		"temp": 31.200000 ,
+		"humid": 5.800000 ,
+		"bar": 990.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.841658,23.814322]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 298 ,
+		"wspeed": 3 ,
+		"temp": 30.500000 ,
+		"humid": 5.600000 ,
+		"bar": 976.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.793328,23.829972]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 291 ,
+		"wspeed": 1 ,
+		"temp": 32.400000 ,
+		"humid": 5.200000 ,
+		"bar": 981.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.693306,23.838817]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 231 ,
+		"wspeed": 2 ,
+		"temp": 31.500000 ,
+		"humid": 6.000000 ,
+		"bar": 990.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.374339,23.848356]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 174 ,
+		"wspeed": 4 ,
+		"temp": 32.600000 ,
+		"humid": 6.100000 ,
+		"bar": 1008.200000 ,
+		"rain": -99.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.490944,23.853347]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 201 ,
+		"wspeed": 6 ,
+		"temp": 32.000000 ,
+		"humid": 6.500000 ,
+		"bar": 1004.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.312789,23.854225]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 206 ,
+		"wspeed": 3 ,
+		"temp": 32.500000 ,
+		"humid": 6.400000 ,
+		"bar": 1008.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.444722,23.867806]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 204 ,
+		"wspeed": 4 ,
+		"temp": 32.600000 ,
+		"humid": 6.600000 ,
+		"bar": 1006.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.566469,23.877003]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 216 ,
+		"wspeed": 3 ,
+		"temp": 32.500000 ,
+		"humid": 5.600000 ,
+		"bar": 1006.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.506528,23.879222]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 218 ,
+		"wspeed": 1 ,
+		"temp": 33.800000 ,
+		"humid": 6.300000 ,
+		"bar": 1007.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.573839,23.882433]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 114 ,
+		"wspeed": 0 ,
+		"temp": 29.700000 ,
+		"humid": 7.700000 ,
+		"bar": 964.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.758528,23.886278]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 285 ,
+		"wspeed": 1 ,
+		"temp": 32.200000 ,
+		"humid": 5.600000 ,
+		"bar": 988.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.541694,23.897056]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 221 ,
+		"wspeed": 1 ,
+		"temp": 33.400000 ,
+		"humid": 5.700000 ,
+		"bar": 1007.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.933219,23.897478]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 259 ,
+		"wspeed": 1 ,
+		"temp": 30.100000 ,
+		"humid": 5.400000 ,
+		"bar": 938.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.578083,23.899417]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 223 ,
+		"wspeed": 3 ,
+		"temp": 32.600000 ,
+		"humid": 7.000000 ,
+		"bar": 1005.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.704053,23.902453]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 259 ,
+		"wspeed": 2 ,
+		"temp": 34.200000 ,
+		"humid": 4.800000 ,
+		"bar": 997.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.703772,23.902714]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": -99 ,
+		"wspeed": -99 ,
+		"temp": -99.000000 ,
+		"humid": -990.000000 ,
+		"bar": -99.000000 ,
+		"rain": -99.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.501389,23.903417]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 244 ,
+		"wspeed": 4 ,
+		"temp": 33.600000 ,
+		"humid": 6.200000 ,
+		"bar": 1006.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.367928,23.905067]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 214 ,
+		"wspeed": 4 ,
+		"temp": 31.700000 ,
+		"humid": 6.300000 ,
+		"bar": 1008.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.679183,23.913208]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 240 ,
+		"wspeed": 4 ,
+		"temp": 32.300000 ,
+		"humid": 5.600000 ,
+		"bar": 998.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.311861,23.924000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 209 ,
+		"wspeed": 3 ,
+		"temp": 33.700000 ,
+		"humid": 6.200000 ,
+		"bar": 1010.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.083267,23.930008]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 274 ,
+		"wspeed": 3 ,
+		"temp": 23.500000 ,
+		"humid": 6.800000 ,
+		"bar": 843.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.587003,23.932733]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 150 ,
+		"wspeed": 4 ,
+		"temp": 31.200000 ,
+		"humid": 9.900000 ,
+		"bar": 1006.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.500806,23.937444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 150 ,
+		"wspeed": 1 ,
+		"temp": 31.400000 ,
+		"humid": 6.000000 ,
+		"bar": 993.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.577528,23.948333]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 194 ,
+		"wspeed": 2 ,
+		"temp": 33.400000 ,
+		"humid": 6.000000 ,
+		"bar": 1006.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.517611,23.948694]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 235 ,
+		"wspeed": 2 ,
+		"temp": 32.600000 ,
+		"humid": 6.000000 ,
+		"bar": 1007.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.471056,23.951750]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 211 ,
+		"wspeed": 3 ,
+		"temp": 35.000000 ,
+		"humid": 6.100000 ,
+		"bar": 1011.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.944278,23.973944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 339 ,
+		"wspeed": 1 ,
+		"temp": 30.600000 ,
+		"humid": 5.700000 ,
+		"bar": 961.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.672194,23.975444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 224 ,
+		"wspeed": 4 ,
+		"temp": 32.000000 ,
+		"humid": 5.700000 ,
+		"bar": 996.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.529167,23.993611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 119 ,
+		"wspeed": 2 ,
+		"temp": 29.100000 ,
+		"humid": 6.800000 ,
+		"bar": 948.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.423583,24.002167]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 217 ,
+		"wspeed": 5 ,
+		"temp": 31.800000 ,
+		"humid": 7.700000 ,
+		"bar": 1008.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.613056,24.017222]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 193 ,
+		"wspeed": 4 ,
+		"temp": 34.500000 ,
+		"humid": 4.900000 ,
+		"bar": 998.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.124056,24.023903]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 268 ,
+		"wspeed": 2 ,
+		"temp": 26.700000 ,
+		"humid": 5.500000 ,
+		"bar": 886.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.541314,24.032075]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 194 ,
+		"wspeed": 6 ,
+		"temp": 32.600000 ,
+		"humid": 5.500000 ,
+		"bar": 1004.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.173333,24.035000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 267 ,
+		"wspeed": 2 ,
+		"temp": 24.300000 ,
+		"humid": 5.400000 ,
+		"bar": 849.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.495722,24.035917]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 197 ,
+		"wspeed": 4 ,
+		"temp": 32.400000 ,
+		"humid": 3.000000 ,
+		"bar": 1008.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.846925,24.039567]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 253 ,
+		"wspeed": 2 ,
+		"temp": 31.600000 ,
+		"humid": 5.400000 ,
+		"bar": 976.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.596386,24.041264]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 139 ,
+		"wspeed": 3 ,
+		"temp": 30.900000 ,
+		"humid": 6.800000 ,
+		"bar": 1004.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.429528,24.042972]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 202 ,
+		"wspeed": 4 ,
+		"temp": 33.700000 ,
+		"humid": 6.000000 ,
+		"bar": 1008.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.422222,24.076944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 182 ,
+		"wspeed": 3 ,
+		"temp": 32.900000 ,
+		"humid": 6.300000 ,
+		"bar": 1009.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.165414,24.087056]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 279 ,
+		"wspeed": 0 ,
+		"temp": 18.800000 ,
+		"humid": 6.200000 ,
+		"bar": 791.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.428836,24.091036]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": -99 ,
+		"wspeed": -99 ,
+		"temp": -99.000000 ,
+		"humid": -990.000000 ,
+		"bar": -99.000000 ,
+		"rain": -99.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.692194,24.094389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 186 ,
+		"wspeed": 3 ,
+		"temp": 32.700000 ,
+		"humid": 5.000000 ,
+		"bar": 1002.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.743333,24.105556]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 350 ,
+		"wspeed": 1 ,
+		"temp": 34.100000 ,
+		"humid": 4.900000 ,
+		"bar": 965.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.615917,24.108833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 211 ,
+		"wspeed": 4 ,
+		"temp": 33.500000 ,
+		"humid": 5.400000 ,
+		"bar": 1005.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.318297,24.111019]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 278 ,
+		"wspeed": 7 ,
+		"temp": 8.300000 ,
+		"humid": 10.000000 ,
+		"bar": -99.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.265361,24.123139]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 206 ,
+		"wspeed": 6 ,
+		"temp": 11.200000 ,
+		"humid": 9.000000 ,
+		"bar": 708.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.287556,24.133550]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 224 ,
+		"wspeed": 7 ,
+		"temp": 11.400000 ,
+		"humid": 8.700000 ,
+		"bar": 704.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.630111,24.138861]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 250 ,
+		"wspeed": 1 ,
+		"temp": 33.700000 ,
+		"humid": 5.200000 ,
+		"bar": 1003.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.435381,24.141081]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 217 ,
+		"wspeed": 6 ,
+		"temp": 32.700000 ,
+		"humid": 7.000000 ,
+		"bar": 1008.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.264083,24.144778]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 275 ,
+		"wspeed": 3 ,
+		"temp": 11.300000 ,
+		"humid": 9.700000 ,
+		"bar": 679.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.621542,24.149236]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 130 ,
+		"wspeed": 3 ,
+		"temp": 30.800000 ,
+		"humid": 8.100000 ,
+		"bar": 1002.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.476167,24.150528]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 203 ,
+		"wspeed": 4 ,
+		"temp": 32.600000 ,
+		"humid": 6.800000 ,
+		"bar": 1007.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.564000,24.154667]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 231 ,
+		"wspeed": 2 ,
+		"temp": 32.100000 ,
+		"humid": 6.800000 ,
+		"bar": 979.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.714139,24.174889]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 228 ,
+		"wspeed": 4 ,
+		"temp": 32.000000 ,
+		"humid": 5.600000 ,
+		"bar": 993.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.487500,24.181389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 113 ,
+		"wspeed": 2 ,
+		"temp": 31.200000 ,
+		"humid": 4.700000 ,
+		"bar": 950.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.632861,24.182028]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 206 ,
+		"wspeed": 3 ,
+		"temp": 32.000000 ,
+		"humid": 7.100000 ,
+		"bar": 998.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.520833,24.186278]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 208 ,
+		"wspeed": 4 ,
+		"temp": 32.300000 ,
+		"humid": 6.000000 ,
+		"bar": 1009.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.307833,24.187944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 295 ,
+		"wspeed": 1 ,
+		"temp": 18.200000 ,
+		"humid": 6.000000 ,
+		"bar": 729.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.807500,24.201583]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 200 ,
+		"wspeed": 6 ,
+		"temp": 31.100000 ,
+		"humid": 5.900000 ,
+		"bar": 952.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.695833,24.214750]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 245 ,
+		"wspeed": 0 ,
+		"temp": 34.400000 ,
+		"humid": 5.300000 ,
+		"bar": 991.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.616239,24.217056]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 206 ,
+		"wspeed": 5 ,
+		"temp": 31.400000 ,
+		"humid": 5.800000 ,
+		"bar": 993.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.680972,24.220100]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 192 ,
+		"wspeed": 1 ,
+		"temp": 33.700000 ,
+		"humid": 5.300000 ,
+		"bar": 1003.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.237667,24.245000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 218 ,
+		"wspeed": 3 ,
+		"temp": 19.700000 ,
+		"humid": 6.400000 ,
+		"bar": 783.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.824917,24.248194]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 206 ,
+		"wspeed": 4 ,
+		"temp": 31.500000 ,
+		"humid": 5.400000 ,
+		"bar": 967.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.895153,24.250283]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 208 ,
+		"wspeed": 3 ,
+		"temp": 28.800000 ,
+		"humid": 5.900000 ,
+		"bar": 903.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.712333,24.256306]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 190 ,
+		"wspeed": 3 ,
+		"temp": 32.100000 ,
+		"humid": 4.000000 ,
+		"bar": 984.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.732861,24.268567]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 157 ,
+		"wspeed": 1 ,
+		"temp": 29.600000 ,
+		"humid": 7.400000 ,
+		"bar": 1007.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.650306,24.274222]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 213 ,
+		"wspeed": 4 ,
+		"temp": 31.800000 ,
+		"humid": 5.900000 ,
+		"bar": 989.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.769478,24.277822]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 203 ,
+		"wspeed": 4 ,
+		"temp": 31.000000 ,
+		"humid": 5.700000 ,
+		"bar": 975.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.761903,24.308961]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 184 ,
+		"wspeed": 4 ,
+		"temp": 29.700000 ,
+		"humid": 7.800000 ,
+		"bar": 1006.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.721500,24.312111]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 191 ,
+		"wspeed": 3 ,
+		"temp": 32.500000 ,
+		"humid": 5.500000 ,
+		"bar": 982.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.554083,24.314028]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 201 ,
+		"wspeed": 5 ,
+		"temp": 32.800000 ,
+		"humid": 7.000000 ,
+		"bar": 1007.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.816194,24.314833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 225 ,
+		"wspeed": 4 ,
+		"temp": 32.500000 ,
+		"humid": 5.300000 ,
+		"bar": 971.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.648142,24.345722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 3 ,
+		"wspeed": 1 ,
+		"temp": 30.200000 ,
+		"humid": 6.500000 ,
+		"bar": 944.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.579972,24.347444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 200 ,
+		"wspeed": 5 ,
+		"temp": 32.800000 ,
+		"humid": 6.000000 ,
+		"bar": 1005.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.697472,24.349556]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 204 ,
+		"wspeed": 4 ,
+		"temp": 33.400000 ,
+		"humid": 5.000000 ,
+		"bar": 993.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.632361,24.349917]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 216 ,
+		"wspeed": 2 ,
+		"temp": 35.700000 ,
+		"humid": 4.900000 ,
+		"bar": 999.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.365011,24.370400]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 201 ,
+		"wspeed": 3 ,
+		"temp": 15.600000 ,
+		"humid": 7.000000 ,
+		"bar": 740.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.412122,24.383461]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 155 ,
+		"wspeed": 3 ,
+		"temp": 15.600000 ,
+		"humid": 6.200000 ,
+		"bar": 700.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.228197,24.390375]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 187 ,
+		"wspeed": 5 ,
+		"temp": 13.700000 ,
+		"humid": 5.800000 ,
+		"bar": -99.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.263286,24.390581]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 295 ,
+		"wspeed": 2 ,
+		"temp": 13.200000 ,
+		"humid": 7.000000 ,
+		"bar": 698.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.741644,24.407236]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 202 ,
+		"wspeed": 7 ,
+		"temp": 28.900000 ,
+		"humid": 6.500000 ,
+		"bar": 953.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.775067,24.415731]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 168 ,
+		"wspeed": 2 ,
+		"temp": 31.700000 ,
+		"humid": 6.500000 ,
+		"bar": 946.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.862694,24.416700]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 214 ,
+		"wspeed": 4 ,
+		"temp": 33.000000 ,
+		"humid": 5.000000 ,
+		"bar": 975.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.295628,24.434519]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 215 ,
+		"wspeed": 1 ,
+		"temp": 14.100000 ,
+		"humid": 6.800000 ,
+		"bar": 689.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.373333,24.439167]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 27 ,
+		"wspeed": 2 ,
+		"temp": 28.400000 ,
+		"humid": 5.300000 ,
+		"bar": 885.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.644883,24.441458]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 210 ,
+		"wspeed": 5 ,
+		"temp": 32.600000 ,
+		"humid": 5.700000 ,
+		"bar": 1005.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.802036,24.451153]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 164 ,
+		"wspeed": 2 ,
+		"temp": 29.600000 ,
+		"humid": 7.600000 ,
+		"bar": 1008.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.921944,24.453056]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 227 ,
+		"wspeed": 3 ,
+		"temp": 28.900000 ,
+		"humid": 5.400000 ,
+		"bar": 918.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [118.320831,24.459339]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 228 ,
+		"wspeed": 3 ,
+		"temp": 32.600000 ,
+		"humid": 6.900000 ,
+		"bar": 1005.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.696444,24.473639]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 181 ,
+		"wspeed": 7 ,
+		"temp": 34.100000 ,
+		"humid": 5.000000 ,
+		"bar": 1004.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [118.400617,24.489931]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 294 ,
+		"wspeed": 3 ,
+		"temp": -99.000000 ,
+		"humid": 7.700000 ,
+		"bar": 1007.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.782639,24.491528]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 218 ,
+		"wspeed": 3 ,
+		"temp": 33.400000 ,
+		"humid": 5.400000 ,
+		"bar": 991.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.517500,24.507222]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 22.700000 ,
+		"humid": 7.300000 ,
+		"bar": 808.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.599858,24.512650]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 174 ,
+		"wspeed": 1 ,
+		"temp": 23.300000 ,
+		"humid": 7.200000 ,
+		"bar": 814.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.824986,24.523767]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 147 ,
+		"wspeed": 1 ,
+		"temp": 30.500000 ,
+		"humid": 7.600000 ,
+		"bar": 1007.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.107917,24.528722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 294 ,
+		"wspeed": 0 ,
+		"temp": 24.100000 ,
+		"humid": 5.000000 ,
+		"bar": 812.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.510844,24.529611]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 95 ,
+		"wspeed": 1 ,
+		"temp": 26.800000 ,
+		"humid": 6.800000 ,
+		"bar": 860.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.911972,24.541028]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 207 ,
+		"wspeed": 6 ,
+		"temp": 33.300000 ,
+		"humid": 4.600000 ,
+		"bar": 984.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.794436,24.557164]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 141 ,
+		"wspeed": 2 ,
+		"temp": 26.100000 ,
+		"humid": 8.400000 ,
+		"bar": 920.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.744417,24.562447]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 99 ,
+		"wspeed": 1 ,
+		"temp": 24.100000 ,
+		"humid": 9.900000 ,
+		"bar": 888.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.740278,24.564417]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 192 ,
+		"wspeed": 3 ,
+		"temp": 34.700000 ,
+		"humid": 4.900000 ,
+		"bar": 1003.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.816444,24.566667]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 214 ,
+		"wspeed": 5 ,
+		"temp": 33.400000 ,
+		"humid": 4.800000 ,
+		"bar": 1000.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.487153,24.578356]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 78 ,
+		"wspeed": 1 ,
+		"temp": 33.800000 ,
+		"humid": 5.300000 ,
+		"bar": 965.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.877222,24.585250]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 263 ,
+		"wspeed": 7 ,
+		"temp": 33.700000 ,
+		"humid": 3.300000 ,
+		"bar": 999.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.404039,24.592053]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 26.100000 ,
+		"humid": 6.300000 ,
+		"bar": 832.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.992083,24.603167]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 240 ,
+		"wspeed": 1 ,
+		"temp": 34.000000 ,
+		"humid": 4.700000 ,
+		"bar": 982.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.775556,24.608056]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 213 ,
+		"wspeed": 3 ,
+		"temp": 35.600000 ,
+		"humid": 4.800000 ,
+		"bar": 1005.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.817906,24.609000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 233 ,
+		"wspeed": 5 ,
+		"temp": 34.300000 ,
+		"humid": 4.800000 ,
+		"bar": 1006.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.940550,24.619833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 228 ,
+		"wspeed": 4 ,
+		"temp": 34.700000 ,
+		"humid": 4.400000 ,
+		"bar": 996.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.785500,24.635528]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 86 ,
+		"wspeed": 3 ,
+		"temp": 30.600000 ,
+		"humid": 7.300000 ,
+		"bar": 1005.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.856583,24.638750]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 230 ,
+		"wspeed": 2 ,
+		"temp": 34.900000 ,
+		"humid": 5.000000 ,
+		"bar": 1004.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.644819,24.669917]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 110 ,
+		"wspeed": 2 ,
+		"temp": 31.300000 ,
+		"humid": 6.000000 ,
+		"bar": 996.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.578889,24.677222]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 85 ,
+		"wspeed": 2 ,
+		"temp": 31.400000 ,
+		"humid": 6.500000 ,
+		"bar": 960.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.200361,24.680119]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 29.300000 ,
+		"humid": 6.700000 ,
+		"bar": 949.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.741144,24.683636]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 45 ,
+		"wspeed": 1 ,
+		"temp": 33.300000 ,
+		"humid": 6.400000 ,
+		"bar": 1006.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.790222,24.688722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 90 ,
+		"wspeed": 2 ,
+		"temp": 31.300000 ,
+		"humid": 6.700000 ,
+		"bar": 1006.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.904167,24.690000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 227 ,
+		"wspeed": 1 ,
+		"temp": 35.000000 ,
+		"humid": 4.600000 ,
+		"bar": 1004.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.009083,24.692389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 172 ,
+		"wspeed": 2 ,
+		"temp": 35.400000 ,
+		"humid": 4.700000 ,
+		"bar": 997.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.880833,24.710833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 217 ,
+		"wspeed": 2 ,
+		"temp": 34.100000 ,
+		"humid": 5.200000 ,
+		"bar": 1004.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.108733,24.712925]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 233 ,
+		"wspeed": 2 ,
+		"temp": 33.800000 ,
+		"humid": 4.800000 ,
+		"bar": 983.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.679461,24.719928]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 43 ,
+		"wspeed": 1 ,
+		"temp": 32.400000 ,
+		"humid": 6.000000 ,
+		"bar": 1002.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.016769,24.736722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 298 ,
+		"wspeed": 2 ,
+		"temp": 35.200000 ,
+		"humid": 4.400000 ,
+		"bar": 994.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.714269,24.746147]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 124 ,
+		"wspeed": 1 ,
+		"temp": 32.700000 ,
+		"humid": 6.200000 ,
+		"bar": 1006.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.897256,24.748650]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 227 ,
+		"wspeed": 2 ,
+		"temp": 35.100000 ,
+		"humid": 5.400000 ,
+		"bar": 1006.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.633056,24.754722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 33 ,
+		"wspeed": 0 ,
+		"temp": 30.900000 ,
+		"humid": 10.000000 ,
+		"bar": 953.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.573147,24.762506]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 75 ,
+		"wspeed": 1 ,
+		"temp": 29.000000 ,
+		"humid": 7.000000 ,
+		"bar": 938.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.049861,24.769250]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 239 ,
+		"wspeed": 4 ,
+		"temp": 35.200000 ,
+		"humid": 4.400000 ,
+		"bar": 991.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.494583,24.778333]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 343 ,
+		"wspeed": 1 ,
+		"temp": 32.200000 ,
+		"humid": 5.900000 ,
+		"bar": 963.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.666839,24.792836]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 129 ,
+		"wspeed": 1 ,
+		"temp": 29.900000 ,
+		"humid": 6.600000 ,
+		"bar": 957.500000 ,
+		"rain": 0.500000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.165694,24.800111]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 303 ,
+		"wspeed": 1 ,
+		"temp": 34.900000 ,
+		"humid": 4.600000 ,
+		"bar": 990.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.978742,24.800436]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 245 ,
+		"wspeed": 8 ,
+		"temp": 33.400000 ,
+		"humid": 5.000000 ,
+		"bar": 1000.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.805683,24.802436]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 87 ,
+		"wspeed": 2 ,
+		"temp": 31.800000 ,
+		"humid": 7.600000 ,
+		"bar": 1009.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.757397,24.819336]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 64 ,
+		"wspeed": 1 ,
+		"temp": 32.500000 ,
+		"humid": 6.700000 ,
+		"bar": 1005.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.344094,24.822000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 282 ,
+		"wspeed": 1 ,
+		"temp": 30.600000 ,
+		"humid": 5.900000 ,
+		"bar": 957.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.944947,24.843392]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 184 ,
+		"wspeed": 1 ,
+		"temp": 27.700000 ,
+		"humid": 8.100000 ,
+		"bar": 963.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.589639,24.850056]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 235 ,
+		"wspeed": 2 ,
+		"temp": 29.100000 ,
+		"humid": 6.800000 ,
+		"bar": 969.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.142611,24.851750]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 242 ,
+		"wspeed": 3 ,
+		"temp": 33.000000 ,
+		"humid": 5.100000 ,
+		"bar": 982.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.998167,24.852500]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 292 ,
+		"wspeed": 1 ,
+		"temp": 28.900000 ,
+		"humid": 6.700000 ,
+		"bar": 1008.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.822586,24.855031]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 102 ,
+		"wspeed": 2 ,
+		"temp": 31.600000 ,
+		"humid": 7.400000 ,
+		"bar": 1008.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.765750,24.866578]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 123 ,
+		"wspeed": 2 ,
+		"temp": 31.200000 ,
+		"humid": 6.600000 ,
+		"bar": 946.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.213194,24.871833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 225 ,
+		"wspeed": 4 ,
+		"temp": 33.600000 ,
+		"humid": 4.500000 ,
+		"bar": 980.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.969000,24.872436]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 210 ,
+		"wspeed": 3 ,
+		"temp": 30.400000 ,
+		"humid": 7.100000 ,
+		"bar": 993.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.256944,24.884722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 248 ,
+		"wspeed": 5 ,
+		"temp": 32.600000 ,
+		"humid": 4.800000 ,
+		"bar": 984.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.737519,24.894394]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 131 ,
+		"wspeed": 1 ,
+		"temp": 31.500000 ,
+		"humid": 6.500000 ,
+		"bar": 963.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.316761,24.894711]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 179 ,
+		"wspeed": 2 ,
+		"temp": 32.900000 ,
+		"humid": 5.700000 ,
+		"bar": 992.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.784231,24.899333]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 153 ,
+		"wspeed": 2 ,
+		"temp": 26.800000 ,
+		"humid": 8.500000 ,
+		"bar": 900.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.206389,24.899444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 234 ,
+		"wspeed": 3 ,
+		"temp": 33.500000 ,
+		"humid": 4.900000 ,
+		"bar": 984.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.035417,24.906556]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 245 ,
+		"wspeed": 6 ,
+		"temp": 30.900000 ,
+		"humid": 6.500000 ,
+		"bar": 997.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.134833,24.914139]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 204 ,
+		"wspeed": 3 ,
+		"temp": 32.900000 ,
+		"humid": 5.200000 ,
+		"bar": 988.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.536533,24.923619]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 101 ,
+		"wspeed": 1 ,
+		"temp": 32.700000 ,
+		"humid": 6.000000 ,
+		"bar": 999.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.275000,24.930528]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 118 ,
+		"wspeed": 1 ,
+		"temp": 34.300000 ,
+		"humid": 4.700000 ,
+		"bar": 990.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.701531,24.939975]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 30.000000 ,
+		"humid": 9.100000 ,
+		"bar": 975.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.361500,24.940806]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 205 ,
+		"wspeed": 1 ,
+		"temp": 33.800000 ,
+		"humid": 4.800000 ,
+		"bar": 1001.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.337250,24.953000]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 226 ,
+		"wspeed": 1 ,
+		"temp": 33.100000 ,
+		"humid": 5.700000 ,
+		"bar": 999.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.880658,24.964408]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 101 ,
+		"wspeed": 1 ,
+		"temp": 29.200000 ,
+		"humid": 7.500000 ,
+		"bar": 949.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.815278,24.973056]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 30.200000 ,
+		"humid": 7.000000 ,
+		"bar": 962.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.436917,24.974944]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 252 ,
+		"wspeed": 1 ,
+		"temp": 33.100000 ,
+		"humid": 5.400000 ,
+		"bar": 1004.300000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.393789,24.976719]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 225 ,
+		"wspeed": 1 ,
+		"temp": 33.600000 ,
+		"humid": 5.600000 ,
+		"bar": 1002.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.248156,24.979428]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 265 ,
+		"wspeed": 3 ,
+		"temp": 32.900000 ,
+		"humid": 5.000000 ,
+		"bar": 991.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.315044,24.994256]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 265 ,
+		"wspeed": 1 ,
+		"temp": 33.600000 ,
+		"humid": 4.500000 ,
+		"bar": 996.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.482222,24.994472]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 212 ,
+		"wspeed": 1 ,
+		"temp": 34.100000 ,
+		"humid": 6.600000 ,
+		"bar": 1006.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.654639,24.995758]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 245 ,
+		"wspeed": 0 ,
+		"temp": 30.400000 ,
+		"humid": 7.600000 ,
+		"bar": 983.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [119.441347,24.996081]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 221 ,
+		"wspeed": 4 ,
+		"temp": 26.500000 ,
+		"humid": 9.500000 ,
+		"bar": 1000.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.567528,25.004083]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 235 ,
+		"wspeed": 1 ,
+		"temp": 32.200000 ,
+		"humid": 6.500000 ,
+		"bar": 1003.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.734572,25.004411]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 31.700000 ,
+		"humid": 10.000000 ,
+		"bar": 976.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.620106,25.004489]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 264 ,
+		"wspeed": 1 ,
+		"temp": 32.000000 ,
+		"humid": 6.500000 ,
+		"bar": 999.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.993889,25.009444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 159 ,
+		"wspeed": 2 ,
+		"temp": 32.500000 ,
+		"humid": 6.900000 ,
+		"bar": 999.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.499889,25.013028]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 222 ,
+		"wspeed": 1 ,
+		"temp": 33.300000 ,
+		"humid": 5.800000 ,
+		"bar": 1004.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.934167,25.019167]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 50 ,
+		"wspeed": 1 ,
+		"temp": 31.500000 ,
+		"humid": 7.000000 ,
+		"bar": 1004.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.145111,25.028861]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 226 ,
+		"wspeed": 4 ,
+		"temp": 31.500000 ,
+		"humid": 6.800000 ,
+		"bar": 999.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.378336,25.030231]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 248 ,
+		"wspeed": 2 ,
+		"temp": 31.600000 ,
+		"humid": 5.500000 ,
+		"bar": 981.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.611456,25.035950]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 51 ,
+		"wspeed": 1 ,
+		"temp": 18.300000 ,
+		"humid": 8.500000 ,
+		"bar": 1011.200000 ,
+		"rain": 1.500000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.856056,25.037861]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 33.100000 ,
+		"humid": 6.100000 ,
+		"bar": 1001.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.556372,25.039606]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 197 ,
+		"wspeed": 0 ,
+		"temp": 32.900000 ,
+		"humid": 5.700000 ,
+		"bar": 1000.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.217778,25.049444]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 250 ,
+		"wspeed": 6 ,
+		"temp": 32.900000 ,
+		"humid": 6.100000 ,
+		"bar": 1002.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.542203,25.050492]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 294 ,
+		"wspeed": 1 ,
+		"temp": 32.800000 ,
+		"humid": 5.000000 ,
+		"bar": 1004.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.438528,25.053250]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 286 ,
+		"wspeed": 0 ,
+		"temp": 32.900000 ,
+		"humid": 5.300000 ,
+		"bar": 1003.900000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.492400,25.059108]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 197 ,
+		"wspeed": 3 ,
+		"temp": 32.100000 ,
+		"humid": 6.000000 ,
+		"bar": 1005.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.332769,25.065633]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 267 ,
+		"wspeed": 1 ,
+		"temp": 30.900000 ,
+		"humid": 5.300000 ,
+		"bar": 981.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.650556,25.068667]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 246 ,
+		"wspeed": 1 ,
+		"temp": 31.900000 ,
+		"humid": 6.000000 ,
+		"bar": 1003.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.772586,25.073047]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 139 ,
+		"wspeed": 1 ,
+		"temp": 29.000000 ,
+		"humid": 7.200000 ,
+		"bar": 925.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.372611,25.073953]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 246 ,
+		"wspeed": 2 ,
+		"temp": 31.900000 ,
+		"humid": 5.500000 ,
+		"bar": 977.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.419053,25.076228]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 220 ,
+		"wspeed": 2 ,
+		"temp": -99.000000 ,
+		"humid": 6.000000 ,
+		"bar": 987.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.534722,25.079722]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": -99 ,
+		"wspeed": -99 ,
+		"temp": -99.000000 ,
+		"humid": -990.000000 ,
+		"bar": -99.000000 ,
+		"rain": -99.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.567222,25.081206]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 266 ,
+		"wspeed": 1 ,
+		"temp": 32.800000 ,
+		"humid": 4.500000 ,
+		"bar": 1004.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.257500,25.086111]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 247 ,
+		"wspeed": 4 ,
+		"temp": 33.000000 ,
+		"humid": 6.300000 ,
+		"bar": 1005.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.464056,25.088528]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 221 ,
+		"wspeed": 0 ,
+		"temp": 32.500000 ,
+		"humid": 5.600000 ,
+		"bar": 1004.000000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.494792,25.092031]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 219 ,
+		"wspeed": 1 ,
+		"temp": 32.700000 ,
+		"humid": 5.500000 ,
+		"bar": 1005.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.708897,25.096608]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 247 ,
+		"wspeed": 3 ,
+		"temp": 31.800000 ,
+		"humid": 7.100000 ,
+		"bar": 1000.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.461389,25.111389]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 210 ,
+		"wspeed": 1 ,
+		"temp": 34.500000 ,
+		"humid": 4.700000 ,
+		"bar": 1007.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.792639,25.114861]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 31.700000 ,
+		"humid": 6.900000 ,
+		"bar": 997.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.504825,25.117336]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 163 ,
+		"wspeed": 1 ,
+		"temp": 28.800000 ,
+		"humid": 6.700000 ,
+		"bar": 1003.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.528939,25.119253]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 245 ,
+		"wspeed": 2 ,
+		"temp": 32.800000 ,
+		"humid": 5.800000 ,
+		"bar": 1004.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.915278,25.130833]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 133 ,
+		"wspeed": 2 ,
+		"temp": 29.900000 ,
+		"humid": 9.900000 ,
+		"bar": 1001.100000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.568856,25.130925]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 242 ,
+		"wspeed": 2 ,
+		"temp": 29.400000 ,
+		"humid": 6.000000 ,
+		"bar": 961.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.600278,25.133889]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 256 ,
+		"wspeed": 5 ,
+		"temp": 26.800000 ,
+		"humid": 8.000000 ,
+		"bar": 931.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.395306,25.152250]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 262 ,
+		"wspeed": 4 ,
+		"temp": 32.600000 ,
+		"humid": 6.500000 ,
+		"bar": 1005.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.624750,25.167694]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 213 ,
+		"wspeed": 7 ,
+		"temp": 29.500000 ,
+		"humid": 6.500000 ,
+		"bar": 967.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.514167,25.177333]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 243 ,
+		"wspeed": 6 ,
+		"temp": 24.900000 ,
+		"humid": 9.500000 ,
+		"bar": 892.400000 ,
+		"rain": 0.500000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.775678,25.193200]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 210 ,
+		"wspeed": 4 ,
+		"temp": 31.700000 ,
+		"humid": 6.300000 ,
+		"bar": 997.200000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.635556,25.225278]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 0 ,
+		"wspeed": 0 ,
+		"temp": 33.100000 ,
+		"humid": 5.900000 ,
+		"bar": 1002.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.586997,25.234933]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 61 ,
+		"wspeed": 1 ,
+		"temp": 31.500000 ,
+		"humid": 5.700000 ,
+		"bar": 982.400000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.493361,25.259639]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 217 ,
+		"wspeed": 2 ,
+		"temp": 31.400000 ,
+		"humid": 6.700000 ,
+		"bar": 998.700000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.557278,25.265556]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 234 ,
+		"wspeed": 2 ,
+		"temp": 31.200000 ,
+		"humid": 6.500000 ,
+		"bar": 985.500000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.510814,25.284903]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 258 ,
+		"wspeed": 5 ,
+		"temp": 31.100000 ,
+		"humid": 6.400000 ,
+		"bar": 1005.600000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [119.972400,25.966883]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 183 ,
+		"wspeed": 4 ,
+		"temp": 25.500000 ,
+		"humid": 9.200000 ,
+		"bar": 1006.800000 ,
+		"rain": 0.000000 
+	}
+},
+
+{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.475308,26.360539]
+	},
+	"properties":
+	{
+		"height": 0 ,
+		"wdir": 324 ,
+		"wspeed": 3 ,
+		"temp": 22.900000 ,
+		"humid": 9.600000 ,
+		"bar": 1002.900000 ,
+		"rain": 0.000000 
+	}
+}
+	]
+}	
